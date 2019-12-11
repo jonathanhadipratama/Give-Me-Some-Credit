@@ -1,14 +1,18 @@
 # Give-Me-Some-Credit
 
+![logo](https://static-news.moneycontrol.com/static-mcnews/2018/06/shutterstock_383374129-1-770x433.jpg)
 ## Objective
-Sales is such an important thing for the store. Through deep analysis in sales, the store’s
-owner can evaluate the past sales and learn from it. Moreover, using regressor model to
-predict future sales, the owner can set the strategy to face the future.
+Nowadays, many institutions provide a loan for society and many people interested to
+use that facility. That is good news for those institutions because they can get more
+interest from the borrower. But, hold your horses! Are you sure those applicants can pay
+it well? The institution also needs to be careful to choose their credit recipient. Failed to
+choose good credit recipient means a bigger tendency of those people to become default
+and inflict loss for the company.
 
 ## Method
-for data preparation and data cleansing, mostly I process it in MySQL. Technically, it’s not
-necessary using MySQL to process this data set since the data isn’t too big and only
-consists of two tables. But my purpose in using MySQL is to deepen my skill because SQL
-is a powerful tool for data science.
-for sales prediction, I decompose the date-time data and use it as a parameter to predict
-the future sales using regressor model
+Nowadays, many institutions provide a loan for society and many people interested to
+use that facility. That is good news for those institutions because they can get more
+interest from the borrower. But, hold your horses! Are you sure those applicants can pay
+it well? The institution also needs to be careful to choose their credit recipient. Failed to
+choose good credit recipient means a bigger tendency of those people to become default
+and inflict loss for the company.
